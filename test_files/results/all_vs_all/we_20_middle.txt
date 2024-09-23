@@ -1,0 +1,260 @@
+Insert state emission probabilities:
+ {'?': 1.9990004997501257e-05, 'A': 0.04399800099950026, 'R': 0.1019690154922539, 'N': 0.12595702148925542, 'D': 0.05999000499750127, 'C': 0.051994002998500766, 'Q': 0.04000000000000001, 'E': 0.038000999500249884, 'G': 0.09597201399300352, 'H': 0.016011994002998506, 'I': 0.02400799600199901, 'L': 0.04599700149925039, 'K': 0.08997501249375316, 'M': 1.9990004997501257e-05, 'F': 0.01801099450274863, 'P': 0.020009995002498757, 'S': 0.05999000499750127, 'T': 0.05799100449775114, 'W': 1.9990004997501257e-05, 'Y': 0.06598700649675164, 'V': 0.04399800099950026, 'B': 1.9990004997501257e-05, 'Z': 1.9990004997501257e-05, 'X': 1.9990004997501257e-05, '*': 1.9990004997501257e-05} 
+
+Match state initial emission probabilities:
+       ?           A           R  ...           Z           X           *
+?  0.04  0.04000000  0.04000000  ...  0.04000000  0.04000000  0.04000000
+A  0.04  0.81000000  0.00652174  ...  0.00652174  0.00652174  0.00652174
+R  0.04  0.00652174  0.81000000  ...  0.00652174  0.00652174  0.00652174
+N  0.04  0.00652174  0.00652174  ...  0.00652174  0.00652174  0.00652174
+D  0.04  0.00652174  0.00652174  ...  0.00652174  0.00652174  0.00652174
+C  0.04  0.00652174  0.00652174  ...  0.00652174  0.00652174  0.00652174
+Q  0.04  0.00652174  0.00652174  ...  0.00652174  0.00652174  0.00652174
+E  0.04  0.00652174  0.00652174  ...  0.00652174  0.00652174  0.00652174
+G  0.04  0.00652174  0.00652174  ...  0.00652174  0.00652174  0.00652174
+H  0.04  0.00652174  0.00652174  ...  0.00652174  0.00652174  0.00652174
+I  0.04  0.00652174  0.00652174  ...  0.00652174  0.00652174  0.00652174
+L  0.04  0.00652174  0.00652174  ...  0.00652174  0.00652174  0.00652174
+K  0.04  0.00652174  0.00652174  ...  0.00652174  0.00652174  0.00652174
+M  0.04  0.00652174  0.00652174  ...  0.00652174  0.00652174  0.00652174
+F  0.04  0.00652174  0.00652174  ...  0.00652174  0.00652174  0.00652174
+P  0.04  0.00652174  0.00652174  ...  0.00652174  0.00652174  0.00652174
+S  0.04  0.00652174  0.00652174  ...  0.00652174  0.00652174  0.00652174
+T  0.04  0.00652174  0.00652174  ...  0.00652174  0.00652174  0.00652174
+W  0.04  0.00652174  0.00652174  ...  0.00652174  0.00652174  0.00652174
+Y  0.04  0.00652174  0.00652174  ...  0.00652174  0.00652174  0.00652174
+V  0.04  0.00652174  0.00652174  ...  0.00652174  0.00652174  0.00652174
+B  0.04  0.00652174  0.00652174  ...  0.00652174  0.00652174  0.00652174
+Z  0.04  0.00652174  0.00652174  ...  0.81000000  0.00652174  0.00652174
+X  0.04  0.00652174  0.00652174  ...  0.00652174  0.81000000  0.00652174
+*  0.04  0.00652174  0.00652174  ...  0.00652174  0.00652174  0.81000000
+
+[25 rows x 25 columns] 
+
+Sequence r_86_62_39 	 Log likelihood from forward algorithm  =  -68.12576
+Sequence r_86_62_39 	 Log likelihood from backward algorithm  =  -68.12576
+Sequence r_127_96_47 	 Log likelihood from forward algorithm  =  -48.89116
+Sequence r_127_96_47 	 Log likelihood from backward algorithm  =  -48.89116
+Sequence r_166_9_23 	 Log likelihood from forward algorithm  =  -35.09561
+Sequence r_166_9_23 	 Log likelihood from backward algorithm  =  -35.09561
+Sequence r_99_156_30 	 Log likelihood from forward algorithm  =  -49.58609
+Sequence r_99_156_30 	 Log likelihood from backward algorithm  =  -49.58609
+Sequence r_107_173_40 	 Log likelihood from forward algorithm  =  -46.31668
+Sequence r_107_173_40 	 Log likelihood from backward algorithm  =  -46.31668
+Sequence r_18_58_37 	 Log likelihood from forward algorithm  =  -102.44554
+Sequence r_18_58_37 	 Log likelihood from backward algorithm  =  -102.44554
+Sequence r_138_104_44 	 Log likelihood from forward algorithm  =  -49.58782
+Sequence r_138_104_44 	 Log likelihood from backward algorithm  =  -49.58782
+Sequence r_90_31_47 	 Log likelihood from forward algorithm  =  -50.67495
+Sequence r_90_31_47 	 Log likelihood from backward algorithm  =  -50.67495
+Sequence r_136_11_19 	 Log likelihood from forward algorithm  =  -35.11083
+Sequence r_136_11_19 	 Log likelihood from backward algorithm  =  -35.11083
+Sequence r_5_20_19 	 Log likelihood from forward algorithm  =  -103.07925
+Sequence r_5_20_19 	 Log likelihood from backward algorithm  =  -103.07925
+Iteration =  1 	 Combined log likelihood =  -588.9136961106583
+This iteration cost  4.79696 secs
+Parameters: gap insertion =  0.010672625070811837 	 gap extension =  0.9227174493469122 
+
+Sequence r_86_62_39 	 Log likelihood from forward algorithm  =  -43.76179
+Sequence r_86_62_39 	 Log likelihood from backward algorithm  =  -43.76179
+Sequence r_127_96_47 	 Log likelihood from forward algorithm  =  -32.03645
+Sequence r_127_96_47 	 Log likelihood from backward algorithm  =  -32.03645
+Sequence r_166_9_23 	 Log likelihood from forward algorithm  =  -25.48656
+Sequence r_166_9_23 	 Log likelihood from backward algorithm  =  -25.48656
+Sequence r_99_156_30 	 Log likelihood from forward algorithm  =  -33.05431
+Sequence r_99_156_30 	 Log likelihood from backward algorithm  =  -33.05431
+Sequence r_107_173_40 	 Log likelihood from forward algorithm  =  -35.07302
+Sequence r_107_173_40 	 Log likelihood from backward algorithm  =  -35.07302
+Sequence r_18_58_37 	 Log likelihood from forward algorithm  =  -88.73287
+Sequence r_18_58_37 	 Log likelihood from backward algorithm  =  -88.73287
+Sequence r_138_104_44 	 Log likelihood from forward algorithm  =  -32.58639
+Sequence r_138_104_44 	 Log likelihood from backward algorithm  =  -32.58639
+Sequence r_90_31_47 	 Log likelihood from forward algorithm  =  -41.07455
+Sequence r_90_31_47 	 Log likelihood from backward algorithm  =  -41.07455
+Sequence r_136_11_19 	 Log likelihood from forward algorithm  =  -25.67949
+Sequence r_136_11_19 	 Log likelihood from backward algorithm  =  -25.67949
+Sequence r_5_20_19 	 Log likelihood from forward algorithm  =  -88.90990
+Sequence r_5_20_19 	 Log likelihood from backward algorithm  =  -88.90990
+Iteration =  2 	 Combined log likelihood =  -446.3953243712645
+This iteration cost  4.857868 secs
+Parameters: gap insertion =  0.006312837043403976 	 gap extension =  0.9519562758201314 
+
+Sequence r_86_62_39 	 Log likelihood from forward algorithm  =  -43.09654
+Sequence r_86_62_39 	 Log likelihood from backward algorithm  =  -43.09654
+Sequence r_127_96_47 	 Log likelihood from forward algorithm  =  -31.13002
+Sequence r_127_96_47 	 Log likelihood from backward algorithm  =  -31.13002
+Sequence r_166_9_23 	 Log likelihood from forward algorithm  =  -25.60954
+Sequence r_166_9_23 	 Log likelihood from backward algorithm  =  -25.60954
+Sequence r_99_156_30 	 Log likelihood from forward algorithm  =  -32.99863
+Sequence r_99_156_30 	 Log likelihood from backward algorithm  =  -32.99863
+Sequence r_107_173_40 	 Log likelihood from forward algorithm  =  -31.98368
+Sequence r_107_173_40 	 Log likelihood from backward algorithm  =  -31.98368
+Sequence r_18_58_37 	 Log likelihood from forward algorithm  =  -87.46442
+Sequence r_18_58_37 	 Log likelihood from backward algorithm  =  -87.46442
+Sequence r_138_104_44 	 Log likelihood from forward algorithm  =  -32.16267
+Sequence r_138_104_44 	 Log likelihood from backward algorithm  =  -32.16267
+Sequence r_90_31_47 	 Log likelihood from forward algorithm  =  -41.63969
+Sequence r_90_31_47 	 Log likelihood from backward algorithm  =  -41.63969
+Sequence r_136_11_19 	 Log likelihood from forward algorithm  =  -25.68029
+Sequence r_136_11_19 	 Log likelihood from backward algorithm  =  -25.68029
+Sequence r_5_20_19 	 Log likelihood from forward algorithm  =  -87.81873
+Sequence r_5_20_19 	 Log likelihood from backward algorithm  =  -87.81873
+Iteration =  3 	 Combined log likelihood =  -439.5841953810528
+This iteration cost  4.973765 secs
+Parameters: gap insertion =  0.005526192603460672 	 gap extension =  0.9554376167684231 
+
+Sequence r_86_62_39 	 Log likelihood from forward algorithm  =  -43.68247
+Sequence r_86_62_39 	 Log likelihood from backward algorithm  =  -43.68247
+Sequence r_127_96_47 	 Log likelihood from forward algorithm  =  -30.96427
+Sequence r_127_96_47 	 Log likelihood from backward algorithm  =  -30.96427
+Sequence r_166_9_23 	 Log likelihood from forward algorithm  =  -25.59918
+Sequence r_166_9_23 	 Log likelihood from backward algorithm  =  -25.59918
+Sequence r_99_156_30 	 Log likelihood from forward algorithm  =  -33.08182
+Sequence r_99_156_30 	 Log likelihood from backward algorithm  =  -33.08182
+Sequence r_107_173_40 	 Log likelihood from forward algorithm  =  -30.16138
+Sequence r_107_173_40 	 Log likelihood from backward algorithm  =  -30.16138
+Sequence r_18_58_37 	 Log likelihood from forward algorithm  =  -87.58430
+Sequence r_18_58_37 	 Log likelihood from backward algorithm  =  -87.58430
+Sequence r_138_104_44 	 Log likelihood from forward algorithm  =  -32.00008
+Sequence r_138_104_44 	 Log likelihood from backward algorithm  =  -32.00008
+Sequence r_90_31_47 	 Log likelihood from forward algorithm  =  -41.86600
+Sequence r_90_31_47 	 Log likelihood from backward algorithm  =  -41.86600
+Sequence r_136_11_19 	 Log likelihood from forward algorithm  =  -25.50926
+Sequence r_136_11_19 	 Log likelihood from backward algorithm  =  -25.50926
+Sequence r_5_20_19 	 Log likelihood from forward algorithm  =  -87.91957
+Sequence r_5_20_19 	 Log likelihood from backward algorithm  =  -87.91957
+Iteration =  4 	 Combined log likelihood =  -438.36834799046255
+This iteration cost  4.829592 secs
+Parameters: gap insertion =  0.005495194845573458 	 gap extension =  0.9555144358906895 
+
+Sequence r_86_62_39 	 Log likelihood from forward algorithm  =  -43.73106
+Sequence r_86_62_39 	 Log likelihood from backward algorithm  =  -43.73106
+Sequence r_127_96_47 	 Log likelihood from forward algorithm  =  -31.21319
+Sequence r_127_96_47 	 Log likelihood from backward algorithm  =  -31.21319
+Sequence r_166_9_23 	 Log likelihood from forward algorithm  =  -25.57459
+Sequence r_166_9_23 	 Log likelihood from backward algorithm  =  -25.57459
+Sequence r_99_156_30 	 Log likelihood from forward algorithm  =  -33.09905
+Sequence r_99_156_30 	 Log likelihood from backward algorithm  =  -33.09905
+Sequence r_107_173_40 	 Log likelihood from forward algorithm  =  -29.65054
+Sequence r_107_173_40 	 Log likelihood from backward algorithm  =  -29.65054
+Sequence r_18_58_37 	 Log likelihood from forward algorithm  =  -87.56552
+Sequence r_18_58_37 	 Log likelihood from backward algorithm  =  -87.56552
+Sequence r_138_104_44 	 Log likelihood from forward algorithm  =  -31.98268
+Sequence r_138_104_44 	 Log likelihood from backward algorithm  =  -31.98268
+Sequence r_90_31_47 	 Log likelihood from forward algorithm  =  -41.85491
+Sequence r_90_31_47 	 Log likelihood from backward algorithm  =  -41.85491
+Sequence r_136_11_19 	 Log likelihood from forward algorithm  =  -25.43435
+Sequence r_136_11_19 	 Log likelihood from backward algorithm  =  -25.43435
+Sequence r_5_20_19 	 Log likelihood from forward algorithm  =  -87.92024
+Sequence r_5_20_19 	 Log likelihood from backward algorithm  =  -87.92024
+Iteration =  5 	 Combined log likelihood =  -438.0261173235299
+This iteration cost  4.838245 secs
+Parameters: gap insertion =  0.005493013007556751 	 gap extension =  0.9554917411151221 
+
+Sequence r_86_62_39 	 Log likelihood from forward algorithm  =  -43.73604
+Sequence r_86_62_39 	 Log likelihood from backward algorithm  =  -43.73604
+Sequence r_127_96_47 	 Log likelihood from forward algorithm  =  -31.32606
+Sequence r_127_96_47 	 Log likelihood from backward algorithm  =  -31.32606
+Sequence r_166_9_23 	 Log likelihood from forward algorithm  =  -25.56750
+Sequence r_166_9_23 	 Log likelihood from backward algorithm  =  -25.56750
+Sequence r_99_156_30 	 Log likelihood from forward algorithm  =  -33.11035
+Sequence r_99_156_30 	 Log likelihood from backward algorithm  =  -33.11035
+Sequence r_107_173_40 	 Log likelihood from forward algorithm  =  -29.48340
+Sequence r_107_173_40 	 Log likelihood from backward algorithm  =  -29.48340
+Sequence r_18_58_37 	 Log likelihood from forward algorithm  =  -87.55404
+Sequence r_18_58_37 	 Log likelihood from backward algorithm  =  -87.55404
+Sequence r_138_104_44 	 Log likelihood from forward algorithm  =  -31.98217
+Sequence r_138_104_44 	 Log likelihood from backward algorithm  =  -31.98217
+Sequence r_90_31_47 	 Log likelihood from forward algorithm  =  -41.84937
+Sequence r_90_31_47 	 Log likelihood from backward algorithm  =  -41.84937
+Sequence r_136_11_19 	 Log likelihood from forward algorithm  =  -25.41259
+Sequence r_136_11_19 	 Log likelihood from backward algorithm  =  -25.41259
+Sequence r_5_20_19 	 Log likelihood from forward algorithm  =  -87.92152
+Sequence r_5_20_19 	 Log likelihood from backward algorithm  =  -87.92152
+Iteration =  6 	 Combined log likelihood =  -437.94303294907974
+This iteration cost  4.988408 secs
+Parameters: gap insertion =  0.005492348369395763 	 gap extension =  0.9554966374763868 
+
+Sequence r_86_62_39 	 Log likelihood from forward algorithm  =  -43.73710
+Sequence r_86_62_39 	 Log likelihood from backward algorithm  =  -43.73710
+Sequence r_127_96_47 	 Log likelihood from forward algorithm  =  -31.34713
+Sequence r_127_96_47 	 Log likelihood from backward algorithm  =  -31.34713
+Sequence r_166_9_23 	 Log likelihood from forward algorithm  =  -25.56679
+Sequence r_166_9_23 	 Log likelihood from backward algorithm  =  -25.56679
+Sequence r_99_156_30 	 Log likelihood from forward algorithm  =  -33.11536
+Sequence r_99_156_30 	 Log likelihood from backward algorithm  =  -33.11536
+Sequence r_107_173_40 	 Log likelihood from forward algorithm  =  -29.45082
+Sequence r_107_173_40 	 Log likelihood from backward algorithm  =  -29.45082
+Sequence r_18_58_37 	 Log likelihood from forward algorithm  =  -87.55119
+Sequence r_18_58_37 	 Log likelihood from backward algorithm  =  -87.55119
+Sequence r_138_104_44 	 Log likelihood from forward algorithm  =  -31.98411
+Sequence r_138_104_44 	 Log likelihood from backward algorithm  =  -31.98411
+Sequence r_90_31_47 	 Log likelihood from forward algorithm  =  -41.84998
+Sequence r_90_31_47 	 Log likelihood from backward algorithm  =  -41.84998
+Sequence r_136_11_19 	 Log likelihood from forward algorithm  =  -25.40947
+Sequence r_136_11_19 	 Log likelihood from backward algorithm  =  -25.40947
+Sequence r_5_20_19 	 Log likelihood from forward algorithm  =  -87.91927
+Sequence r_5_20_19 	 Log likelihood from backward algorithm  =  -87.91927
+Iteration =  7 	 Combined log likelihood =  -437.93122341257344
+This iteration cost  4.854275 secs
+Parameters: gap insertion =  0.005492038966371079 	 gap extension =  0.9555092861238603 
+
+Sequence r_86_62_39 	 Log likelihood from forward algorithm  =  -43.73743
+Sequence r_86_62_39 	 Log likelihood from backward algorithm  =  -43.73743
+Sequence r_127_96_47 	 Log likelihood from forward algorithm  =  -31.35213
+Sequence r_127_96_47 	 Log likelihood from backward algorithm  =  -31.35213
+Sequence r_166_9_23 	 Log likelihood from forward algorithm  =  -25.56723
+Sequence r_166_9_23 	 Log likelihood from backward algorithm  =  -25.56723
+Sequence r_99_156_30 	 Log likelihood from forward algorithm  =  -33.11538
+Sequence r_99_156_30 	 Log likelihood from backward algorithm  =  -33.11538
+Sequence r_107_173_40 	 Log likelihood from forward algorithm  =  -29.44601
+Sequence r_107_173_40 	 Log likelihood from backward algorithm  =  -29.44601
+Sequence r_18_58_37 	 Log likelihood from forward algorithm  =  -87.55114
+Sequence r_18_58_37 	 Log likelihood from backward algorithm  =  -87.55114
+Sequence r_138_104_44 	 Log likelihood from forward algorithm  =  -31.98330
+Sequence r_138_104_44 	 Log likelihood from backward algorithm  =  -31.98330
+Sequence r_90_31_47 	 Log likelihood from forward algorithm  =  -41.85068
+Sequence r_90_31_47 	 Log likelihood from backward algorithm  =  -41.85068
+Sequence r_136_11_19 	 Log likelihood from forward algorithm  =  -25.40956
+Sequence r_136_11_19 	 Log likelihood from backward algorithm  =  -25.40956
+Sequence r_5_20_19 	 Log likelihood from forward algorithm  =  -87.91674
+Sequence r_5_20_19 	 Log likelihood from backward algorithm  =  -87.91674
+Iteration =  8 	 Combined log likelihood =  -437.9296231302885
+This iteration cost  4.835026 secs
+Parameters: gap insertion =  0.005491850534938501 	 gap extension =  0.9555200033995157 
+
+
+
+EM estimation completed
+Parameters:
+Transition: gap insertion =  0.005491850534938501 	 gap extension =  0.9555200033995157
+Emission parameters from match:
+      ?           A           R           N  ...     B     Z     X     *
+?  0.04  0.00047060  0.00021048  0.00015223  ...  0.04  0.04  0.04  0.04
+A  0.04  0.98870565  0.00021052  0.00015223  ...  0.04  0.04  0.04  0.04
+R  0.04  0.00047060  0.89070227  0.01545376  ...  0.04  0.04  0.04  0.04
+N  0.04  0.00047060  0.02131912  0.83755998  ...  0.04  0.04  0.04  0.04
+D  0.04  0.00047060  0.00022500  0.01468278  ...  0.04  0.04  0.04  0.04
+C  0.04  0.00047060  0.00021270  0.00015225  ...  0.04  0.04  0.04  0.04
+Q  0.04  0.00047060  0.00021493  0.00021212  ...  0.04  0.04  0.04  0.04
+E  0.04  0.00047060  0.00021048  0.04581295  ...  0.04  0.04  0.04  0.04
+G  0.04  0.00047063  0.00021058  0.00015226  ...  0.04  0.04  0.04  0.04
+H  0.04  0.00047060  0.00025194  0.00015223  ...  0.04  0.04  0.04  0.04
+I  0.04  0.00047061  0.00021507  0.00015224  ...  0.04  0.04  0.04  0.04
+L  0.04  0.00047060  0.00989414  0.00015224  ...  0.04  0.04  0.04  0.04
+K  0.04  0.00047060  0.07358777  0.01539978  ...  0.04  0.04  0.04  0.04
+M  0.04  0.00047060  0.00021048  0.00015223  ...  0.04  0.04  0.04  0.04
+F  0.04  0.00047060  0.00021048  0.00015223  ...  0.04  0.04  0.04  0.04
+P  0.04  0.00047060  0.00021048  0.00015223  ...  0.04  0.04  0.04  0.04
+S  0.04  0.00047060  0.00021967  0.03769200  ...  0.04  0.04  0.04  0.04
+T  0.04  0.00047060  0.00021053  0.03059857  ...  0.04  0.04  0.04  0.04
+W  0.04  0.00047060  0.00021048  0.00015223  ...  0.04  0.04  0.04  0.04
+Y  0.04  0.00047060  0.00021048  0.00015223  ...  0.04  0.04  0.04  0.04
+V  0.04  0.00047060  0.00021048  0.00015229  ...  0.04  0.04  0.04  0.04
+B  0.04  0.00047060  0.00021048  0.00015223  ...  0.04  0.04  0.04  0.04
+Z  0.04  0.00047060  0.00021048  0.00015223  ...  0.04  0.04  0.04  0.04
+X  0.04  0.00047060  0.00021048  0.00015223  ...  0.04  0.04  0.04  0.04
+*  0.04  0.00047060  0.00021048  0.00015223  ...  0.04  0.04  0.04  0.04
+
+[25 rows x 25 columns]
+Program completed in  38.974271 secs

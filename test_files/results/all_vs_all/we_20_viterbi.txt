@@ -1,0 +1,69 @@
+
+
+
+Target:r_86_62_39	Length:50	Maximum Log likelihood:-58.289783746340696
+r_86_62_39          	QEDTLYGVYRACVRTACNGNREKERTIVHGKGNLSKCSNNDELPYSKAQY
+                    	| ||||| |||||| |||||| |||||||||| |||||||||||||||||
+r_90_31_47          	QNDTLYGYYRACVRNACNGNRNKERTIVHGKGRLSKCSNND
+r_18_58_37          	                                         ELPYSKAQY
+
+
+Target:r_127_96_47	Length:50	Maximum Log likelihood:-48.71146524317814
+r_127_96_47         	QNDTLYGYYRACVRNACNGNRNREREIVHGKGNLSKCSNNDSLSFSRGHK
+                    	|||||||| ||||||||||||||||||||||| ||| |||| |||| |||
+r_138_104_44        	QNDTLYGYFRACVRNACNGNRNREREIVHGKGSLSKVSNNDTLSFSKGHK
+
+
+Target:r_166_9_23	Length:50	Maximum Log likelihood:-34.245785734680034
+r_166_9_23          	QNDTLYGYFRACVRNACNGNRNRNKRVIYGTQNKRQCTTDEKFPGPKARK
+                    	||||||||||||||||||||  ||||||||||||||||||||||||||||
+r_136_11_19         	QNDTLYGYFRACVRNACNGNKTRNKRVIYGTQNKRQCTTDEKFPGPKARK
+
+
+Target:r_99_156_30	Length:50	Maximum Log likelihood:-48.71146524317812
+r_99_156_30         	QNDSLYGYYRACVRKACNGNRNKERTIVHGKGSLSKVSNNDTLSFSRGRK
+                    	||| |||||||||| ||||||||||||||||| ||| ||||||| |||||
+r_107_173_40        	QNDTLYGYYRACVRNACNGNRNKERTIVHGKGNLSKCSNNDTLSYSRGRK
+
+
+Target:r_107_173_40	Length:50	Maximum Log likelihood:-43.634862238204086
+r_107_173_40        	QNDTLYGYYRACVRNACNGNRNKERTIVHGKGNLSKCSNNDTLSYSRGRK
+                    	|||||||||||||||||||||||||||||||| ||||||||||| |||||
+r_90_31_47          	QNDTLYGYYRACVRNACNGNRNKERTIVHGKGRLSKCSNNDTLSFS
+r_99_156_30         	                                              RGRK
+
+
+Target:r_18_58_37	Length:50	Maximum Log likelihood:-63.40916627064576
+r_18_58_37          	PDNTYDENYQGVGEPTCGGNKDRNKRVIYGTQNKRQCDGNDELPYSKAQY
+                    	||||||||||||| ||||||| |||||||||||||||  |||||||||||
+r_5_20_19           	PDNTYDENYQGVGKPTCG
+r_136_11_19         	                  GNKTRNKRVIYGTQNKRQCTT
+r_86_62_39          	                                       NDELPYSKAQY
+
+
+Target:r_138_104_44	Length:50	Maximum Log likelihood:-48.71146524317814
+r_138_104_44        	QNDTLYGYFRACVRNACNGNRNREREIVHGKGSLSKVSNNDTLSFSKGHK
+                    	|||||||| ||||||||||||||||||||||| ||| |||| |||| |||
+r_127_96_47         	QNDTLYGYYRACVRNACNGNRNREREIVHGKGNLSKCSNNDSLSFSRGHK
+
+
+Target:r_90_31_47	Length:50	Maximum Log likelihood:-48.45675540770347
+r_90_31_47          	QNDTLYGYYRACVRNACNGNRNKERTIVHGKGRLSKCSNNDTLSFSKAQI
+                    	|||||||||||||||||||||||||||||||| ||||||||||| |||| 
+r_107_173_40        	QNDTLYGYYRACVRNACNGNRNKERTIVHGKGNLSKCSNNDTLSYS
+r_86_62_39          	                                              KAQY
+
+
+Target:r_136_11_19	Length:50	Maximum Log likelihood:-34.245785734680034
+r_136_11_19         	QNDTLYGYFRACVRNACNGNKTRNKRVIYGTQNKRQCTTDEKFPGPKARK
+                    	||||||||||||||||||||  ||||||||||||||||||||||||||||
+r_166_9_23          	QNDTLYGYFRACVRNACNGNRNRNKRVIYGTQNKRQCTTDEKFPGPKARK
+
+
+Target:r_5_20_19	Length:50	Maximum Log likelihood:-107.40946551613646
+r_5_20_19           	PDNTYDENYQGVGKPTCGGDKRNDQRIRDGKDDLSKCDGEDELTYSKAKI
+                    	||||||||||||| |||||^^^^^^^^^^^^^^||||   ||| ||||  
+r_18_58_37          	PDNTYDENYQGVGEPTCGG
+r_86_62_39          	                   --------------LSKCSNNDELPYSKAQY
+
+Above all viterbi paths with estimated parameters cost 1.011935secs

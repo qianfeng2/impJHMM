@@ -1,0 +1,38 @@
+
+
+
+Target:target_seq1969	Length:125	Maximum Log likelihood:-260.5766163871524
+target_seq1969      	DIGDIIRGKDLYLGDKKKDQQEKVRLEKNLKDIFGIIYDNLVREKAQAEERYKDNDKKNFYRLREDWWYANRATVWKAITCSEDLKNSSYFRATCGTGKPTNEKCRCD----GANIVPTYFDYVPQYLR
+                    	|||||||||||||||| |||| |  |  ||||||^^||||||||^^^|| |||  |||| | |||||| |||||||||||||^^^^^^^|| |||^^^^^^^^|||||~~~~|| ||||||||||||||
+db_seq1787          	DIGDIIRGKDLYLGDKG
+db_seq5184          	                 KDQQGKAKLQQNLKDIF
+db_seq1787          	                                  --IYDNL
+db_seq5164          	                                         VRE
+db_seq5274          	                                            ---AEARYKNDDKKNYYQLREDWWTANRAT
+db_seq2856          	                                                                          VWKAITCS
+db_seq1787          	                                                                                  -------YFHATC
+db_seq5274          	                                                                                               --------KCRCDDKPSGAK
+db_seq1967          	                                                                                                                   IVPTYFDYVPQYLR
+
+
+Target:target_seq7585	Length:129	Maximum Log likelihood:-274.0031973436128
+target_seq7585      	DIGDIIRGKDLFIGYNEKDRKEKDRRDELENNLKTIFEKIHDKLDVKIKSK---YDDGSGNYYLLREHWWNANRQEIWKAITCEVKSGSQYFRATCG---GGQNKTQNNCRCEKKSGEPQDQVPTYFDYVPQYLR
+                    	|||||||||||| ||||||^^^^^^^^^|| ||| ||||| |^^^^^^|||~~~||||||||| ||| || |||   |||||| | || ^|| ||||~~~|^^^^||  |||^^^^^^  |||||||||||| ||
+db_seq5184          	DIGDIIRGKDLFRGYNEKD
+db_seq1967          	                   ---------LEENLKKIFEKIYD
+db_seq2856          	                                          ------KSKINAYDDGS
+db_seq1787          	                                                           GNYYQLREDWWYANRHTVWKAITCDVVSGT-YFHATCGTGTG----TQGRCRC------KGDQVPTYFDYVPQFLR
+
+
+Target:target_seq12395	Length:119	Maximum Log likelihood:-257.0224320596449
+target_seq12395     	DIGDIIRGKDLYNGNNRKGE--KLEAKIKEYFQKIYEQLVKKDKEGAKTHYGDDENYYKLREDWWDANRQQVWKAITCDAPDNAKYLEESDGSQSGSHQTKCRSNNAEVLTNFDYVPQYLR
+                    	|||||||||||| ||^^|||~~|||||||| ||||^^^^^^^^|||^^^^^^^^^| | |||||| |||||||||||||||  |||||  ||   |||^^|||^^^^^|||||||||||||
+db_seq715           	DIGDIIRGKDLYLGN
+db_seq1967          	               --KGEKKKLE
+db_seq715           	                         AKI
+db_seq5164          	                            KEIFQKI--------
+db_seq715           	                                           KEG---------NFYQLREDWWNANRQQVWKAITCDAPKDAKYLEKKDGPAYG
+db_seq5164          	                                                                                                SH--KCR-----
+db_seq715           	                                                                                                            VLTNFDYVPQYLR
+
+Above all viterbi paths with estimated parameters cost 0.704551secs
