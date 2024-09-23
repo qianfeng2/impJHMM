@@ -4,12 +4,12 @@ An Improved JHMM to Detect Recombination From Unaligned Sequences
 [![License: GPL-3.0](https://img.shields.io/cran/l/devtools)](https://opensource.org/licenses/GPL-3.0)
 
 ### About
-This program is for detecting recombination from biological sequences that cannot be aligned. This framework develops on the basis of the mosaic representations from the jumping hidden markov model (JHMM, Zilversmit et al., 2013). The JHMM searches each query sequence (called target sequence) against a database (called source sequences), the mosaic representation for each target sequence is then constructed. We improved the JHMM by constraining recombination to occur at homologous locations between sequences. Our model shows similar accuracy with the JHMM but much higher effiency than the JHMM. 
+This program is for detecting recombination from biological sequences that cannot be aligned. This framework develops on the basis of the jumping hidden markov model (JHMM, Zilversmit et al., 2013). The JHMM searches each query sequence (called target sequence) against a database (called source sequences), the mosaic representation for each target sequence is then constructed. We improved the JHMM by constraining recombination to occur at homologous locations between sequences. Our model shows similar accuracy with the JHMM but much higher effiency than the JHMM. 
 
 See more details about this model in Chapter 4 ("An improved JHMM for recombination detection") of my PhD thesis.
 
 ### Required software
-- Python >=3.5
+- Python >=3.10
 
 This program was written by Python. The python modules you may want to install are listed in requirements.txt
 ```
